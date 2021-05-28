@@ -17,7 +17,9 @@ img {
   height: auto;
   vertical-align: bottom;
   border-style: none;
-  animation: rotate-anime 3s linear infinite;
+}
+.header-banner {
+	animation: rotate-anime 3s linear infinite;
 }
 @keyframes rotate-anime {
   0%  {transform: rotate(0);}
